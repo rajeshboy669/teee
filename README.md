@@ -1,4 +1,4 @@
-# URL Shortener Telegram Bot
+# Adlinkfly URL Shortener Telegram Bot Repository Details:
 
 A Telegram bot repo that allows users to shorten URLs using the adlinkfly API.
 
